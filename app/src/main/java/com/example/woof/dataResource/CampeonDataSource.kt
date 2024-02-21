@@ -140,7 +140,7 @@ class CampeonDataSource {
                 wImg = R.drawable.soraka_w,
                 eImg = R.drawable.soraka_e,
                 rImg = R.drawable.soraka_r,
-                skinFoto = R.drawable.yone_sombratinta,
+                skinFoto = R.drawable.soraka_skin,
                 skinNombre = R.string.skin8
             ),
             Campeon(
